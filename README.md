@@ -1,9 +1,16 @@
 # Mental Fitness Tracker ML Model
+
+![Mental Fitness Tracker](https://i.pinimg.com/originals/bf/ce/69/bfce69e525225d1fdc96caa204e2d9e7.gif)
+
 ## GLIMPSES
 
+**Pickle Model:** [Mental Fitness Tracker Pickle Model](https://drive.google.com/file/d/1WzmfkdzvgSOm7uQQbVakmaEjm9a4rI6e/view?usp=drive_link)
+
+**Presentation:** [Mental Fitness Tracker Presentation](https://docs.google.com/presentation/d/1OOdo-VLhvjbUscd1-qMpY6PDNPYckFYD/edit?usp=sharing&ouid=108712502165030352442&rtpof=true&sd=true)
 
 
-Welcome to the Mental Fitness Tracker ML Model repository! This project showcases my implementation of a machine learning model for tracking mental fitness. By utilizing the Random Forest Regression algorithm, this model provides valuable insights into mental well-being based on input features.
+
+Welcome to the repository of the Mental Fitness Tracker ML Model! Our project introduces a machine learning model to monitor mental fitness effectively. The Random Forest Regression algorithm powers this model, offering valuable insights into mental well-being based on input features.
 
 ## Table of Contents
 
@@ -17,11 +24,9 @@ Welcome to the Mental Fitness Tracker ML Model repository! This project showcase
 - [License](#license)
 
 ## About the Mental Fitness Tracker
-
-The Mental Fitness Tracker ML Model is designed to assess and monitor mental well-being using the Random Forest Regression algorithm. This model analyzes various input features and predicts mental fitness levels based on the provided data.
+The Mental Fitness Tracker ML Model evaluates and tracks mental well-being using the Random Forest Regression algorithm. The model analyzes input features and predicts mental fitness levels based on the provided data.
 
 ## Key Features
-
 - Utilizes Random Forest Regression for accurate prediction of mental fitness.
 - Provides model evaluation metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-Squared (R2) score.
 - Offers a pickled model for easy usage and integration into other applications.
@@ -32,7 +37,7 @@ The Mental Fitness Tracker ML Model is designed to assess and monitor mental wel
 To get started with the Mental Fitness Tracker ML Model, follow these instructions:
 
 1. Clone the repository:
-   ```
+   ```sh
    git clone https://github.com/pranjal-barnwal/mental-fitness-tracker
    ```
 
@@ -81,7 +86,7 @@ print('R2 score is {}'.format(r2))
 
 To use the Mental Fitness Tracker ML Model, follow these steps:
 
-1. Load the pickled model from the provided Google Drive link: [Mental Fitness Tracker Pickle Model](https://drive.google.com/file/d/1rM9qf4fBbQ1EQMxRxv5xeWOZDF4ysnwE/view?usp=share_link).
+1. Load the pickled model from the provided Google Drive link: [Mental Fitness Tracker Pickle Model](https://drive.google.com/file/d/1WzmfkdzvgSOm7uQQbVakmaEjm9a4rI6e/view?usp=drive_link).
 2. Prepare the input data according to the model's requirements.
 3. Utilize the model's predict method to obtain mental fitness predictions based on the input data.
 
@@ -116,7 +121,3 @@ Thank you for your interest in the Mental Fitness Tracker ML Model! I hope this 
 Happy tracking!
 
 [Pranjal Kumar]
-
-Pickle Model: [Mental Fitness Tracker Pickle Model]()
-
-Presentation: [Mental Fitness Tracker Presentation]()
