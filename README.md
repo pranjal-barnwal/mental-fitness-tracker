@@ -1,6 +1,6 @@
 # Mental Fitness Tracker ML Model
 
-![Visual reference](https://github.com/pranjal-barnwal/mental-fitness-tracker/assets/71400605/51ee863f-bf17-4142-9a38-bd3fe9a252dc)
+https://github.com/pranjal-barnwal/mental-fitness-tracker/assets/71400605/64aa19a7-36d7-4c63-98b7-44d08f4f9179
 
 ## GLIMPSES
 
