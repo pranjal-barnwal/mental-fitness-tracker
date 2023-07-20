@@ -1,6 +1,6 @@
 # Mental Fitness Tracker ML Model
 
-![Mental Fitness Tracker](https://i.pinimg.com/originals/bf/ce/69/bfce69e525225d1fdc96caa204e2d9e7.gif)
+<img src="https://i.pinimg.com/originals/bf/ce/69/bfce69e525225d1fdc96caa204e2d9e7.gif" />
 
 ## GLIMPSES
 
