@@ -114,6 +114,12 @@ I would like to express my gratitude to the open-source community and the author
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
 
+## Show your support
+
+Hit the ⭐ if you liked this website!
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" alt="Cute cat: pranjal-barnwal | Pranjal Kumar, Hazaribag Jharkhand">
+
 ---
 
 Thank you for your interest in the Mental Fitness Tracker ML Model! I hope this model helps improve mental well-being tracking and understanding. If you have any questions or need further assistance, please don't hesitate to reach out.
